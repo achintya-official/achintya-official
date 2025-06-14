@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Achintya Sharma</h1>
-<h3 align="center">🚀 Engineer | Tech Leader | Futurist | Innovator | Founder</h3>
+<h3 align="center">🚀 AI Engineer | Tech Leader | Futurist | Innovator | Founder</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=achintya-sharma&label=Profile+Views&color=0e75b6&style=flat" alt="achintya-sharma" />
@@ -59,7 +59,7 @@ From deploying intelligent systems to envisioning **Metaverse-ready infrastructu
 ## 📫 Let's Connect
 
 - 🌐 Portfolio: [www.achintyasharma.com](https://www.achintyasharma.com) *(will be available soon)*
-- 📧 Email: `achintya.official.007@gmail.com`
+- 📧 Email: `achintya.official.007@gmail.com`, 'achintya1501@gmail.com'
 - 💼 LinkedIn: [https://linkedin.com/in/achintya-sharma-office]
 - 🧠 Blog: [achintya.medium.com](https://medium.com/@achintya) *(will be available soon)*
 - 🖥️ Company: **Achintya Sharma Consultancy Services LLC, Riyalverse, and ShapesBazaar**  
