@@ -62,7 +62,7 @@ From deploying intelligent systems to envisioning **Metaverse-ready infrastructu
 - 📧 Email: `achintya.official.007@gmail.com` *(replace with actual if preferred)*
 - 💼 LinkedIn: [https://linkedin.com/in/achintya-sharma-office]
 - 🧠 Blog: [achintya.medium.com](https://medium.com/@achintya)
-- 🖥️ Company: **Achintya Sharma Consultancy Services LLC**  
+- 🖥️ Company: **Achintya Sharma Consultancy Services LLC, Riyalverse, and ShapesBazaar**  
 
 ---
 
