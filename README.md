@@ -59,8 +59,8 @@ From deploying intelligent systems to envisioning **Metaverse-ready infrastructu
 ## 📫 Let's Connect
 
 - 🌐 Portfolio: [www.achintyasharma.com](https://www.achintyasharma.com) *(optional placeholder)*
-- 📧 Email: `achintyasharma@email.com` *(replace with actual if preferred)*
-- 💼 LinkedIn: [linkedin.com/in/achintya-sharma](https://linkedin.com/in/achintya-sharma)
+- 📧 Email: `achintya.official.007@gmail.com` *(replace with actual if preferred)*
+- 💼 LinkedIn: [linkedin.com/in/achintya-sharma](https://linkedin.com/in/achintya-sharma](https://www.linkedin.com/in/achintya-sharma-office/)
 - 🧠 Blog: [achintya.medium.com](https://medium.com/@achintya)
 - 🖥️ Company: **Achintya Sharma Consultancy Services LLC**  
 
