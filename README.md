@@ -9,7 +9,7 @@
 
 ## 🌟 About Me
 
-🔧 A **dynamic Engineer Professional and Leader** passionate about pushing the frontiers of innovation across:
+🔧 A **dynamic Engineering Professional and Leader** passionate about pushing the frontiers of innovation across:
 
 - 🤖 **Artificial Intelligence & Machine Learning**  
 - 🧠 **Extended Reality (AR/VR/MR)**  
@@ -41,10 +41,10 @@ From deploying intelligent systems to envisioning **Metaverse-ready infrastructu
 ## 💼 Current Projects
 
 - 🔬 **VR Neural Lab** – Interactive AI Model Training in Virtual Reality  
-- 🔐 **Quantum-Safe Cyber Infrastructure**  
+- 🔐 **Heart Transplantation in Mixed Reality Metaverse**  
 - 🕶️ **Immersive Learning Spaces using XR**  
-- 🤝 **AI-Powered B2B Consultancy Tools**  
-- 📊 **Digital Twin & Predictive Analytics Systems**
+- 🤝 **Advanced Virtual Reality-Based Surgical Training with Real-Time Haptic Feedback for Minimally Invasive Procedures**  
+- 📊 **Metaverse - Enabled Medicine: The Future of Healthcare**
 
 ---
 
